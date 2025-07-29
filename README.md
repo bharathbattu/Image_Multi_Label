@@ -1,6 +1,4 @@
-Here's your full `README.md` in **Markdown format** based on the description you provided. You can copy-paste this directly into your GitHub repository.
 
----
 
 ````markdown
 # 🌸 ImageMultiLabel

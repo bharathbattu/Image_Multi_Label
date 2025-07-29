@@ -1,7 +1,7 @@
 
 
 ````markdown
-# 🌸 ImageMultiLabel
+# ImageMultiLabel
 
 A **multiclass image classification** project using a **Convolutional Neural Network (CNN)** built with **TensorFlow** to classify images of flowers into four categories.
 

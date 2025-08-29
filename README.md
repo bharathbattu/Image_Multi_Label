@@ -145,6 +145,3 @@ Fork the repository, make your changes, and submit a pull request.
 
 
 
-
-Also share your GitHub repo link or username if you'd like it embedded.
-```
